@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "default-suite">
+     <test verbose="2" name="default-test">
+       <classes>
+ 
+            <class name="webtable.Run_branches_WebTable">
+   
+               </class>
+  
+                           
+                          
+       </classes>
+       
+     </test>
+     <test verbose="2" name="default-test2">
+       <classes>
+ 
+            <class name="webtable.Run_roles_webtable">
+   
+               </class>
+  
+                           
+                          
+       </classes>
+       
+     </test><test verbose="2" name="default-test3">
+       <classes>
+ 
+            <class name="webtable.Run_employee_webtable">
+   
+               </class>
+  
+                           
+                          
+       </classes>
+       
+     </test>
+</suite>

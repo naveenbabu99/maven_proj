@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14862" started-at="2020-01-29T01:59:00 IST" finished-at="2020-01-29T01:59:15 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14862" started-at="2020-01-29T01:59:00 IST" finished-at="2020-01-29T01:59:15 IST">
+      <class name="extend_reports_testng.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:extend_reports_testng.NewTest@4973813a]" name="beforeClass" is-config="true" duration-ms="5973" started-at="2020-01-29T01:59:00 IST" finished-at="2020-01-29T01:59:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:extend_reports_testng.NewTest@4973813a]" name="beforeMethod" is-config="true" duration-ms="17" started-at="2020-01-29T01:59:06 IST" finished-at="2020-01-29T01:59:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void extend_reports_testng.NewTest.Ranford_homepage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Ranford_homepage()[pri:0, instance:extend_reports_testng.NewTest@4973813a]" name="Ranford_homepage" duration-ms="15" started-at="2020-01-29T01:59:06 IST" finished-at="2020-01-29T01:59:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ranford_homepage -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:extend_reports_testng.NewTest@4973813a]" name="afterMethod" is-config="true" duration-ms="559" started-at="2020-01-29T01:59:06 IST" finished-at="2020-01-29T01:59:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void extend_reports_testng.NewTest.Ranford_homepage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:extend_reports_testng.NewTest@4973813a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-01-29T01:59:07 IST" finished-at="2020-01-29T01:59:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void extend_reports_testng.NewTest.Admin_login()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Admin_login()[pri:1, instance:extend_reports_testng.NewTest@4973813a]" name="Admin_login" duration-ms="731" started-at="2020-01-29T01:59:07 IST" finished-at="2020-01-29T01:59:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Admin_login -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:extend_reports_testng.NewTest@4973813a]" name="afterMethod" is-config="true" duration-ms="1001" started-at="2020-01-29T01:59:07 IST" finished-at="2020-01-29T01:59:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void extend_reports_testng.NewTest.Admin_login()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="branch_creation()[pri:2, instance:extend_reports_testng.NewTest@4973813a]" name="branch_creation" duration-ms="1425" started-at="2020-01-29T01:59:08 IST" finished-at="2020-01-29T01:59:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- branch_creation -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:extend_reports_testng.NewTest@4973813a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-01-29T01:59:08 IST" finished-at="2020-01-29T01:59:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void extend_reports_testng.NewTest.branch_creation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:extend_reports_testng.NewTest@4973813a]" name="afterMethod" is-config="true" duration-ms="248" started-at="2020-01-29T01:59:10 IST" finished-at="2020-01-29T01:59:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void extend_reports_testng.NewTest.branch_creation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:extend_reports_testng.NewTest@4973813a]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-01-29T01:59:10 IST" finished-at="2020-01-29T01:59:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void extend_reports_testng.NewTest.Role_creation() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Role_creation()[pri:3, instance:extend_reports_testng.NewTest@4973813a]" name="Role_creation" duration-ms="1938" started-at="2020-01-29T01:59:10 IST" finished-at="2020-01-29T01:59:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Role_creation -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:extend_reports_testng.NewTest@4973813a]" name="afterMethod" is-config="true" duration-ms="325" started-at="2020-01-29T01:59:12 IST" finished-at="2020-01-29T01:59:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void extend_reports_testng.NewTest.Role_creation() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:extend_reports_testng.NewTest@4973813a]" name="afterClass" is-config="true" duration-ms="2481" started-at="2020-01-29T01:59:12 IST" finished-at="2020-01-29T01:59:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- extend_reports_testng.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
